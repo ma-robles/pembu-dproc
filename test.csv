@@ -1,0 +1,16 @@
+Programa de Estaciones Meteorologicas del Bachillerato Universitario  (PEMBU)                                                                                                 
+www.ruoa.unam.mx/pembu                                                                                                                                                        
+Estacion CCH0-UNAM,Ciudad de Mexico                                                                                                                                           
+Lat 19.3838 N, Lon 99.0598 W, Alt 2243 msnm                                                                                                                                   
+Horario UTC-6h                                                                                                                                                                
+Datos meteorologicos                                                                                                                                                          
+                                                                                                                                                                              
+Fecha_hora,Temp,Hum_Rel,Rapidez_v_sostenido,Dir_v_sostenido,Rapidez_rachas,Dir_rachas,Presion_bar,Precipitacion,Rad_Solar,Indice_UV,Dosis_UV                                  
+aaaa/mm/dd HH:MM:SS,C,%,m/s,grados,m/s,grados,hPa,mm,W/m2,adimensional,mJ/cm2                                                                                                 
+2019/01/01 00:00:00,   null,   null,   null,   null,   null,   null,   null,   null,   null,    null,    null                                                                 
+2019/01/01 00:30:00,   null,   75.0,     .9,  157.5,    2.2,  157.5,  780.6,     .0,     .0,      .0,      null                                                                 
+2019/01/01 01:00:00,   11.8,   74.0,     .9,  157.5,    1.8,  157.5,  780.4,     .0,     .0,      .0,      .0                                                                 
+2019/01/01 01:30:00,   11.7,   71.0,     .9,  202.5,    1.8,  202.5,  780.3,     .0,     .0,      .0,      .0                                                                 
+2019/01/01 02:00:00,   11.6,   73.0,     .4,  225.0,    1.3,  225.0,  780.2,     .0,     .0,      .0,      .0                                                                 
+2019/01/01 02:30:00,   10.8,   73.0,     .4,  225.0,    1.3,  225.0,  780.2,     .0,     .0,      .0,      .0                                                                 
+2019/01/01 03:00:00,   10.4,   73.0,     .4,  225.0,     .9,  225.0,  780.1,     .0,     .0,      .0,      .0                                                                 
